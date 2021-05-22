@@ -1,0 +1,54 @@
+{
+"ulkeler" :[
+{
+  "name" : "Turkiye",
+  "population" : "80M",
+  "capital" : "Ankara",
+  "flag" : "https://www.countryflags.com/wp-content/uploads/turkey-flag-png-large.png"
+},
+{
+  "name" : "Rusya",
+  "population" : "144M",
+  "capital" : "Moskova",
+  "flag" : "https://www.countryflags.com/wp-content/uploads/russia-flag-png-large.png"
+},
+
+{
+  "name" : "Endonezya",
+  "population" : "270M",
+  "capital" : "Cakarta",
+  "flag" : "https://www.countryflags.com/wp-content/uploads/indonesia-flag-png-large.png"
+},
+
+{
+  "name" : "Kazakistan",
+  "population" : "18M",
+  "capital" : "Nur-Sultan",
+  "flag" : "https://www.countryflags.com/wp-content/uploads/kazakhstan-flag-png-large.png"
+},
+{
+  "name" : "Özbekistan",
+  "population" : "33M",
+  "capital" : "Taşkent",
+  "flag" : "https://www.countryflags.com/wp-content/uploads/uzbekistan-flag-png-large.png"
+},
+{
+  "name" : "Tacikistan",
+  "population" : "9M",
+  "capital" : "Duşanbe",
+  "flag" : "https://www.countryflags.com/wp-content/uploads/tajikistan-flag-png-large.png"
+},
+{
+  "name" : "Finlandiya",
+  "population" : "5M",
+  "capital" : "Helsinki",
+  "flag" : "https://www.countryflags.com/wp-content/uploads/finland-flag-png-large.png"
+},
+{
+  "name" : "İsveç",
+  "population" : "10M",
+  "capital" : "Stokholm",
+  "flag" : "https://www.countryflags.com/wp-content/uploads/sweden-flag-png-large.png"
+}
+]
+}
